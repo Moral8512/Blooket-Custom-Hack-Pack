@@ -1,4 +1,4 @@
-# Blooket-Custom-Hack-Pack
-We hack you play 
-
-# EM
+______________________________________
+|# Blooket-Custom-Hack-Pack            |
+|Some Avarage blooket packs you can get|
+|______________________________________|
