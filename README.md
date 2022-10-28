@@ -1,7 +1,4 @@
 ______________________________________
-
-|# Blooket-Custom-Hack-Pack            |
-
-|Some Avarage blooket packs you can get|
-
-|______________________________________|
+|# Blooket-Custom-Hack-Pack            .|
+|Some Avarage blooket packs you can get.|
+|______________________________________.|
