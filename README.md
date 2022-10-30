@@ -4,6 +4,6 @@ some avarage blooket hacks and pack to get tested
 
 -–---------------------------------------------------------------------------
 
-[POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG](#)
+[POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG](#)
 
 
