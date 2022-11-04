@@ -1,0 +1,12 @@
+Javascript:var g = prompt(%22ID?%22);
+if (g==1){
+alert(%221%22);
+var h = 6
+}
+else if (g==2){
+alert(%222%22);
+var h = 6
+}
+if (h==6){
+alert(%22O⃒̝̅%22)
+}
