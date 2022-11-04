@@ -9,4 +9,13 @@
 [POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG POG](#)
 -–---------------------------------------------------------------------------------------------------------------------
 
-<stroke color="#7400ff" thickness="1"><font size="90"><font color= "#7400ff"><font face="Bangers">It Might Not Be Halloween Butt U Can Still Give Me Candy</font></font></font></stroke>
+
+  _______________
+ /               \
+|                |________
+|                    .     \
+|              ____________/
+|              |
+|              |_____
+|               ___  |
+|              |   |_|
