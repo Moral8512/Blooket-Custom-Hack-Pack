@@ -10,5 +10,7 @@
 -–---------------------------------------------------------------------------------------------------------------------
 
 
-1. <stroke color="#2A0030" thickness="1"><font size="90"><font color= "#FF0000"><font face="Bangers">HI</font></font></font></stroke>
-![Hi](https://blooket.s3.us-east-2.amazonaws.com/blooks/aquatic/blobfish.svg)
+
+
+
+<h3 align="center">![Hi](https://blooket.s3.us-east-2.amazonaws.com/blooks/aquatic/blobfish.svg)</h2>
